@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="app_name">GajStotra</string>
+<string name="splash_toast">Welcome to GajStotra !!!\n\nRecite Ganesh Stotras daily...</string>
+<string name="menuitem_stotras">Stotras</string>
+<string name="menuitem_abt">About</string>
+<string name="menuitem_exit">Exit</string>
+<string name="dlg_abt_txt">GajStotra v1.0 -\nYour devotional companion to read, understand and recite Ganesh Stotras.\n\nAuthor:\nShubham S. Aher\nNasik/Pune,Maharashatra\nIndia.\nEmail:\nshubham.aher.2011@gmail.com\nMob#: 7709553117\n\nCreated For:\nIADC 2011\n</string>
+<string name="dlg_abt_title">About GajStotra</string>
+<string name="dlg_stotras_title">Choose \'Stotra\' to read...</string>
+<string name="stotra_texts_0">Stotra in Romanized English:\n\nPranamya sirasa devam,\nGauri putram, Vinayakam,\nBhakthya vyasa smaren nithya,\nMayu kama artha sidhaye.</string>
+<string name="stotra_texts_1">Stotra in Romanized English:\n\nPrathamam Vakra thundam cha,\nEkadantham dveethiyakam,\nTrithiyam Krishna pingalaksham,\nGajavakthram Chathurthakam.</string>
+
+<string name="stotra_story_0">\n\nStotra Story/Meaning:\n\nThe learned one, who wishes,\nFor more life, wealth and love,\nShould salute with his head,\nLord Ganapathi who is the son of Parvathy.\n</string>
+<string name="stotra_story_1">\n\nStotra Story/Meaning:\n\nThink him first as god with broken tusk,\nSecond as the God with one tusk,\nThird as the one with reddish black eyes,\nFourth as the one who has the face of an elephant.\n</string>
+<string name="stotra_story_2">\n\nStotra Story/Meaning:\nFifth as the one who has a very broad paunch,\nSixth as the one who is cruel to his enemies,\nSeventh as the one who is remover of obstacles,\nEighth as the one who is of the colour of smoke.\n</string>
+<string name="stotra_story_3">\n\nStotra Story/Meaning:\nNinth as the one who crescent in his forehead,\nTenth as the one, who is the leader of remover of obstacles,\nEleventh as the leader of the army of Lord Shiva,\nAnd twelfth as the one who has the face of an elephant.\n</string>
+<string name="stotra_story_4">\n\nStotra Story/Meaning:\nAny one reading these twelve names,\nAt dawn, noon and dusk,\nWill never have fear of defeat,\nAnd would always achieve whatever he wants.\n</string>
+<string name="stotra_story_5">\n\nStotra Story/Meaning:\nOne who pursues education will get knowledge,\nOne who wants to earn money will get money,\nOne who wishes for a son, will get a son,\nAnd one who wants salvation will get salvation.\n</string>
+<string name="stotra_story_6">\n\nStotra Story/Meaning:\nResults of chanting this prayer,\nOf Ganapathi will be got within six months,\nAnd within a year, he would get all wishes fulfilled,\nAnd there is no doubt about this.\n</string>
+<string name="stotra_story_7">\n\nStotra Story/Meaning:\nOne who gets this prayer,\nWritten by Eight Brahmanas,\nAnd offers it to Lord Ganesa,\nWill become knowledgeable,\nAnd would be blessed with all stellar qualities,\nBy the grace of Lord Ganesa.\n</string>
+<string name="stotra_texts_2">Stotra in Romanized English:\nLambhodaram panchamam cha,\nSashtam Vikatameva cha,\nSapthamam Vignarajam cha,\nDhoomra varnam thadashtamam.</string>
+<string name="stotra_texts_3">Stotra in Romanized English:\nNavamam phala chandram cha,\nDasamam thu Vinayakam,\nEkadasam Ganapathim,\nDwadasam the gajananam.</string>
+<string name="stotra_texts_4">Stotra in Romanized English:\nDwathasaithani namani,\nTrisandhyam ya paden nara,\nNa cha vigna bhayam thasya,\nSarva sidhi karam dhruvam.</string>
+<string name="stotra_texts_5">Stotra in Romanized English:\nVidyarthi labhadhe vidhyam,\nDanarthi labhathe danam,\nPuthrarthi labhathe puthran,\nMoksharthi labhathe gatheem.</string>
+<string name="stotra_texts_6">Stotra in Romanized English:\nJapeth Ganapathi sthothram,\nShadbhir masai phalam labeth,\nSamvatsarena sidhim cha,\nLabhathe nathra samsaya.</string>
+<string name="stotra_texts_7">Stotra in Romanized English:\nAshtanam Brahmanam cha,\nLikihithwa ya samarpoayeth,\nThasya Vidhya bhaveth\nSarvaa ganesasya prasadatha.</string>
+<string name="app_desc">GajStotra is your devotional companion app for an Indian Hindu to learn the most important &quot;stotras&quot; of Hindu religion, the Gajanan Stotra.\nIt gives you the 8 stanzas arranged in original Sanskrit, Romanized English and Translated English versions for easy reading,understanding and reciting daily.\n</string>
+</resources>
